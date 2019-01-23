@@ -1,0 +1,15 @@
+header {
+  width: 900px;
+  font-family: 'Sarabun', sans-serif;
+  background: red;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  text-align: center;
+}
+
+body {
+  background: #3b5b8e; 
+}
